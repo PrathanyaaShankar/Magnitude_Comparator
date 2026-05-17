@@ -7,6 +7,7 @@ This project compares two 4-bit binary numbers and determines whether:
   A = B
 
 **Project Overview**
+
 A magnitude comparator is a combinational circuit used to compare binary numbers.
 This project includes:
   Logic design of a 4-bit comparator
@@ -15,13 +16,15 @@ This project includes:
   FPGA implementation using the Basys 3 board
   Hardware implementation using logic gate ICs
 
-**Implemented using:**
+**Implemented using**
+
   Verilog HDL
   Vivado Design Suite
   Basys 3 FPGA Board
   Digital Logic ICs
 
 **Logic Gate ICs Used**
+
   IC 7408 => 2-input AND Gate
   IC 7402 => 2-input NOR Gate
   IC 7411 => 3-input AND Gate
@@ -30,6 +33,7 @@ This project includes:
   IC 4072 => 4-input OR Gate
   
 **Tools & Technologies**
+
   Verilog HDL
   Vivado Design Suite
   Basys 3 FPGA Board
