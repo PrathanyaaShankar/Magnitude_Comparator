@@ -11,7 +11,7 @@ This project compares two 4-bit binary numbers and determines whether:
   A = B
   
 
-**Project Overview**
+**PROJECT OVERVIEW**
 
 A magnitude comparator is a combinational circuit used to compare binary numbers.
 This project includes:
@@ -27,7 +27,7 @@ This project includes:
   Hardware implementation using logic gate ICs
   
 
-**Implemented using**
+**IMPLEMENTED USING**
 
   Verilog HDL
   
@@ -38,7 +38,7 @@ This project includes:
   Digital Logic ICs
   
 
-**Logic Gate ICs Used**
+**LOGIC GATE ICs USED**
 
   IC 7408 => 2-input AND Gate
   
@@ -53,7 +53,7 @@ This project includes:
   IC 4072 => 4-input OR Gate
 
   
-**Tools & Technologies**
+**TOOLS AND TECHNOLOGIES**
 
   Verilog HDL
   
